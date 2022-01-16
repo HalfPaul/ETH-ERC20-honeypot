@@ -1,0 +1,23 @@
+{
+  "name": "eth-erc20-honeypot",
+  "version": "1.0.0",
+  "description": "Ethers.js powered node.js bot that acts as honeypot for scammers",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HalfPaul/ETH-ERC20-honeypot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HalfPaul/ETH-ERC20-honeypot/issues"
+  },
+  "homepage": "https://github.com/HalfPaul/ETH-ERC20-honeypot#readme",
+  "dependencies": {
+    "dotenv": "^12.0.4",
+    "ethers": "^5.5.3"
+  }
+}
